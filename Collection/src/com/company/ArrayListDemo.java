@@ -11,9 +11,9 @@ public class ArrayListDemo {
 		str.add("Akash");
 		str.add("Vishal");
 		
-		//System.out.println(str);
-		for(String s: str) {
+		System.out.println(str);
+		/*for(String s: str) {
 			System.out.println(s);
-	}
+	}*/
 	}
 }

@@ -8,10 +8,10 @@ public class LinkedListDemo {
 		List<String> list=new LinkedList<String>();
 		list.add("Vishal");
 		list.add("lakhan");
-		
-		for(String s: list) {
+		System.out.println(list);
+		/*for(String s: list) {
 			System.out.println(s);
-		}
+		}*/
 
 	}
 }
